@@ -1,6 +1,6 @@
 ### What's up 👋 
 
-<a href="https://www.linkedin.com/in/toby-au/">
+<a href="https://www.linkedin.com/in/toby-au/" target="_blank">
   <img align="left" alt="Toby's LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
